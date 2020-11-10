@@ -28,7 +28,7 @@ public class ProyectoInformatica {
         VstaEdicioDatosAdmin vtnMenuPrincipal= new VstaEdicioDatosAdmin();
         vtnMenuPrincipal.setVisible(true);
         VstaGraficoDiarioAdmin vtnMenuPrincipal1= new VstaGraficoDiarioAdmin();
-        vtnMenuPrincipal1.setVisible(true);*/
+        vtnMenuPrincipal1.setVisible(true);
         VstaInicioAdmin vtnMenuPrincipal2= new VstaInicioAdmin();
         vtnMenuPrincipal2.setVisible(true);
         VstaListarMenuAdmin vtnMenuPrincipal3= new VstaListarMenuAdmin();
