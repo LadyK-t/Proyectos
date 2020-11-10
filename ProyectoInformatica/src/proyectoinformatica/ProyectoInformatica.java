@@ -25,12 +25,12 @@ public class ProyectoInformatica {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       /* VstaEdicioDatosAdmin vtnMenuPrincipal= new VstaEdicioDatosAdmin();
+        VstaEdicioDatosAdmin vtnMenuPrincipal= new VstaEdicioDatosAdmin();
         vtnMenuPrincipal.setVisible(true);
         VstaGraficoDiarioAdmin vtnMenuPrincipal1= new VstaGraficoDiarioAdmin();
         vtnMenuPrincipal1.setVisible(true);*/
         VstaInicioAdmin vtnMenuPrincipal2= new VstaInicioAdmin();
-        vtnMenuPrincipal2.setVisible(true);/*
+        vtnMenuPrincipal2.setVisible(true);
         VstaListarMenuAdmin vtnMenuPrincipal3= new VstaListarMenuAdmin();
         vtnMenuPrincipal3.setVisible(true);
         VstaModificarComidaAdmin vtnMenuPrincipal4= new VstaModificarComidaAdmin();
@@ -42,7 +42,7 @@ public class ProyectoInformatica {
         VstaRedireccionCorreoAdmin vtnMenuPrincipal7= new VstaRedireccionCorreoAdmin();
         vtnMenuPrincipal7.setVisible(true);
         VstaRegistrarComidaAdmin vtnMenuPrincipal8= new VstaRegistrarComidaAdmin();
-        vtnMenuPrincipal8.setVisible(true);*/
+        vtnMenuPrincipal8.setVisible(true);
     }
     
 }
